@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d44458c1-1e62-440e-bb7b-64c4206af7ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/BookSearchCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/BrochureSearchCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/MagazineSearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/config/ControllerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/config/ControllerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/config/DaoFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/config/DaoFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/config/RawConverters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/config/RawConverters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/LipstickController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/PerfumeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/MagazineController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/ShampooController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/controller/concrete/BrochureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/converters/impl/CategoryParameterConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/converters/impl/CompanyNameConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/controller/converters/impl/NameConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/controller/converters/impl/TitleConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/LipstickSearchCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/PerfumeSearchCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/impl/ShampooSearchCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/parameters/impl/CategoryParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/parameters/impl/CompanyNameParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/parameters/impl/NameParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/criteria/parameters/impl/TitleParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/dao/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/dao/AbstractDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/LipstickDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/BookDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/PerfumeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/MagazineDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/ShampooDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/dao/impl/BrochureDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Appliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Appliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Lipstick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Perfume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Shampoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itpu/entity/Brochure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lipstick.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/perfume.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shampoo.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QuS9RpCZDkwekDWyIcr7jKCqRB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/course-work/cosmeticwarehouse&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itpu.Main" />
+      <module name="PrintedProductsWarehouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itpu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44458c1-1e62-440e-bb7b-64c4206af7ad" name="Changes" comment="" />
+      <created>1686201822580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686201822580</updated>
+      <workItem from="1686201827780" duration="7159000" />
+      <workItem from="1686234930623" duration="4027000" />
+      <workItem from="1686283641697" duration="763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itpu/dao/CsvLineParser.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itpu/dao/CsvLineParser.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itpu/dao/CsvLineParser.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
